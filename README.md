@@ -1,6 +1,6 @@
 # Lab-UAS
 ## Download File
-<p>https://github.com/dionmarcelino/Lab__UAS.git</p>
+<p>https://github.com/dionmarcelino/Lab-UAS.git</p>
 
 ## Lakukan `php spark` pada shell XAMPP
 <p>Akses folder yang sudah di download sebelumnya dan pindahkan pada folder xampp htdocs</p>
